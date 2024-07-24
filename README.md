@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Salma
 
 <!--
 **salma-mohamed-37/salma-mohamed-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me:  salma.moh.shalaby@gmail.com
+<a href="https://www.linkedin.com/in/salma-m-shalaby-29a972251"><img src="images/n in.png" style="height:40px;"/></a>  
+
+I am a Full-Stack Software Engineer with expertise in Angular and ASP.NET Core.  
+
+## Technologies and Tools  
+<img src="images/b net.jpg"  style="height:40px;"/> <img src="images/ang.jpeg"  style="height:40px;"/>
+<img src="images/Python-logo-notext.svg.png"  style="height:40px;"/>  <img src="images/OIP.jpeg" style="height:40px;"/> 
